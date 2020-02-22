@@ -818,7 +818,7 @@ img.im_message_video_thumb,
 
   &.im_message_in {
     padding-left: 0;
-    padding-right: 60px;
+    padding-right: 0;
   }
 
   .im_history_messages_group &.im_message_in,
@@ -853,13 +853,13 @@ img.im_message_video_thumb,
 
 .im_message_meta {
   float: none;
-  position: absolute;
+  position: relative;
   bottom: 5px;
   left: 100%;
   white-space: nowrap;
   margin-left: -60px;
   width: 60px;
-  padding: 0 0 0 8px;
+  padding: 10px 0 0 8px;
   // overflow: hidden;
 
   .im_message_out & {
@@ -1616,7 +1616,7 @@ a.im_message_fwd_author {
   min-height: 18px;
   max-height: 136px;
   margin-bottom: 0;
-  font-size: 15px;
+  font-size: 12px;
 
   &:empty {
     background: #f1f1f1;
