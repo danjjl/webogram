@@ -571,7 +571,7 @@
 	"login_generating_key": "Generating keys",
 	"login_generating_keys_info": "Keys are only generated once. This can take a few minutes on slower devices, please be patient.",
 	"login_edit_number": "Edit phone number",
-	"login_enter_code_label_md": "We've sent the code to the **Telegram** app on your other device.\nPlease enter the code below.",
+	"login_enter_code_label_md": "We've sent the code to the **Telegram** app.\nPlease enter the code below.",
 	"login_enter_sms_code_label_md": "We've sent an SMS with an activation code to your phone.\nPlease enter the code below.",
 	"login_enter_call_code_label_md": "We are calling your phone to dictate a code.\nPlease enter the code below.",
 	"login_code_remaining": "You will be able to request SMS in {remaining}",
